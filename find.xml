@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Scratches and Consoles" />
-    <option name="defaultScopeName" value="Scratches and Consoles" />
-    <option name="SEARCH_SCOPE" value="Scratches and Consoles" />
+    <option name="customScope" value="NoTest" />
+    <option name="defaultScopeName" value="NoTest" />
+    <option name="SEARCH_SCOPE" value="NoTest" />
   </component>
 </application>
