@@ -83,9 +83,6 @@
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="JSON">
-    <option name="KEEP_LINE_BREAKS" value="false" />
-  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
