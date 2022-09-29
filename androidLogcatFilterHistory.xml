@@ -5,6 +5,8 @@
       <list>
         <option value="package" />
         <option value="package:mine " />
+        <option value="image" />
+        <option value="image loadi" />
         <option value="package:mine" />
       </list>
     </option>
