@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package" />
+    <option name="mostRecentlyUsed" value="package delivery" />
     <option name="nonFavorites">
       <list>
+        <option value="package delivery" />
+        <option value="package " />
         <option value="package" />
         <option value="package:mine " />
         <option value="image" />
