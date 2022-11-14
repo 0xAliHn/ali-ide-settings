@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="exception" />
     <option name="nonFavorites">
       <list>
+        <option value="exception" />
         <option value="level:error " />
         <option value="logg" />
         <option value="error" />
         <option value="mapper" />
-        <option value="exception" />
         <option value="ConcurrentModificationException" />
         <option value="concurrentm" />
         <option value="level:" />
