@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="exception" />
+    <option name="mostRecentlyUsed" value="level:debug CR:" />
     <option name="nonFavorites">
       <list>
+        <option value="level:debug CR:" />
         <option value="exception" />
         <option value="level:error " />
         <option value="level:ERROR " />
@@ -22,7 +23,6 @@
         <option value="package " />
         <option value="image" />
         <option value="image loadi" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
