@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:debug CR:" />
+    <option name="mostRecentlyUsed" value="error" />
     <option name="nonFavorites">
       <list>
+        <option value="error" />
         <option value="level:debug CR:" />
         <option value="exception" />
         <option value="level:error " />
@@ -13,7 +14,6 @@
         <option value="event" />
         <option value="home_screen_clicked" />
         <option value="logg" />
-        <option value="error" />
         <option value="mapper" />
         <option value="ConcurrentModificationException" />
         <option value="concurrentm" />
