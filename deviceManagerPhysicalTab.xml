@@ -8,10 +8,8 @@
             <value value="21e04e68f80d7ece" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-29T08:09:49.249964Z" />
-        <name value="samsung SM-G960F" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
