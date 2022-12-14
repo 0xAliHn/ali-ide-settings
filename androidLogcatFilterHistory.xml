@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error" />
+    <option name="mostRecentlyUsed" value="tag:FA " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FA " />
+        <option value="TAG" />
+        <option value="firebase" />
+        <option value="loade" />
+        <option value="USERHOME_FLOW_GENERAL_EVENT" />
+        <option value="home" />
+        <option value="firebaseeven" />
         <option value="level:error" />
         <option value="error" />
         <option value="level:debug CR:" />
@@ -11,18 +18,11 @@
         <option value="level:ERROR " />
         <option value="exce" />
         <option value="package:mine " />
-        <option value="firebase" />
         <option value="event" />
         <option value="home_screen_clicked" />
         <option value="logg" />
         <option value="mapper" />
         <option value="ConcurrentModificationException" />
-        <option value="concurrentm" />
-        <option value="level:" />
-        <option value="package" />
-        <option value="package delivery" />
-        <option value="package " />
-        <option value="image" />
       </list>
     </option>
   </component>
