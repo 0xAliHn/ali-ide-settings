@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:FA " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:" />
+        <option value="package:mine " />
         <option value="tag:FA " />
         <option value="TAG" />
         <option value="firebase" />
@@ -17,12 +19,10 @@
         <option value="level:error " />
         <option value="level:ERROR " />
         <option value="exce" />
-        <option value="package:mine " />
         <option value="event" />
         <option value="home_screen_clicked" />
         <option value="logg" />
         <option value="mapper" />
-        <option value="ConcurrentModificationException" />
       </list>
     </option>
   </component>
