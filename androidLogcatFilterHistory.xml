@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="package:" />
         <option value="package:mine " />
         <option value="tag:FA " />
@@ -16,7 +17,6 @@
         <option value="error" />
         <option value="level:debug CR:" />
         <option value="exception" />
-        <option value="level:error " />
         <option value="level:ERROR " />
         <option value="exce" />
         <option value="event" />
