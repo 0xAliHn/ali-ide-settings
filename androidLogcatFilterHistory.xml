@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.global.foodpanda.android.dev level:error" />
+    <option name="mostRecentlyUsed" value="Displayed" />
     <option name="nonFavorites">
       <list>
+        <option value="Displayed" />
+        <option value="package:com.global.foodpanda.android.dev" />
         <option value="package:com.global.foodpanda.android.dev level:error" />
         <option value="package:com.global.foodpanda.android.dev log" />
         <option value="level:error " />
         <option value="package:com.global.foodpanda.android.dev " />
-        <option value="package:com.global.foodpanda.android.dev" />
         <option value="HS TEST:" />
         <option value="HS_TEST" />
         <option value="package:mine level:error" />
@@ -22,7 +23,6 @@
         <option value="loade" />
         <option value="USERHOME_FLOW_GENERAL_EVENT" />
         <option value="home" />
-        <option value="firebaseeven" />
       </list>
     </option>
   </component>
