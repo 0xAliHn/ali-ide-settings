@@ -4,12 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine TAG:" />
+        <option value="package:mine level:error " />
         <option value="package:mine" />
         <option value="package:mine level:debug " />
         <option value="package:mine " />
         <option value="package:mine TAG: Test" />
         <option value="package:mine TAG: Test " />
-        <option value="package:mine level:error " />
         <option value="Displayed" />
         <option value="package:com.global.foodpanda.android.dev" />
         <option value="package:com.global.foodpanda.android.dev level:error" />
