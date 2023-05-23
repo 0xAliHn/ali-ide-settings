@@ -1,11 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine TAG:" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:error " />
+        <option value="package:mine TAG:" />
         <option value="package:mine" />
+        <option value="package:mine level:debug " />
         <option value="package:mine " />
+        <option value="package:mine TAG: Test" />
+        <option value="package:mine TAG: Test " />
+        <option value="package:mine level:error " />
         <option value="Displayed" />
         <option value="package:com.global.foodpanda.android.dev" />
         <option value="package:com.global.foodpanda.android.dev level:error" />
@@ -15,14 +19,10 @@
         <option value="HS TEST:" />
         <option value="HS_TEST" />
         <option value="package:mine level:error" />
-        <option value="package:mine level:debug " />
         <option value="package:" />
         <option value="tag:FA " />
         <option value="TAG" />
         <option value="firebase" />
-        <option value="loade" />
-        <option value="USERHOME_FLOW_GENERAL_EVENT" />
-        <option value="home" />
       </list>
     </option>
   </component>
