@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:error" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error" />
+        <option value="package:mine level:error ErrorCode:" />
         <option value="package:mine level:error " />
         <option value="package:mine level:info " />
         <option value="package:mine " />
         <option value="package:mine" />
-        <option value="package:mine level:error" />
         <option value="package:mine TAG:" />
         <option value="package:mine level:debug " />
         <option value="package:mine TAG: Test" />
@@ -22,7 +23,6 @@
         <option value="HS_TEST" />
         <option value="package:" />
         <option value="tag:FA " />
-        <option value="TAG" />
       </list>
     </option>
   </component>
