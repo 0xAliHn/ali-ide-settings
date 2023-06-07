@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine getActiveCachedContent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine level:error " />
+        <option value="package:mine Skipping" />
         <option value="package:mine getActiveCachedContent" />
         <option value="package:mine level:error" />
         <option value="package:mine level:error ErrorCode:" />
-        <option value="package:mine level:error " />
         <option value="package:mine level:info " />
-        <option value="package:mine " />
-        <option value="package:mine" />
         <option value="package:mine TAG:" />
         <option value="package:mine level:debug " />
         <option value="package:mine TAG: Test" />
@@ -22,7 +22,6 @@
         <option value="package:com.global.foodpanda.android.dev " />
         <option value="HS TEST:" />
         <option value="HS_TEST" />
-        <option value="package:" />
       </list>
     </option>
   </component>
